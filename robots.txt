@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epaleado.github.io/sitemap_index.epaleado
